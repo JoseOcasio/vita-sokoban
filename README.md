@@ -9,3 +9,6 @@ Code was based off the following repo: https://github.com/PolyMarsDev/Terri-Frie
 ## Screenshots
 ![screen1](https://github.com/JoseOcasio/vita-sokoban/blob/master/resources/screenshots/screenshot1.jpg)
 ![screen2](https://github.com/JoseOcasio/vita-sokoban/blob/master/resources/screenshots/screenshot2.jpg)
+
+## Assets
+All assets can be obtained [here](https://opengameart.org/content/sokoban-pack)
