@@ -16,3 +16,6 @@ Simply navigate to the root and run `cmake . && make` to create the .VPK
 
 ## Assets
 All assets can be obtained [here](https://opengameart.org/content/sokoban-pack)
+
+## Contributing
+Feel free to create pull requests for improvements/changes.
