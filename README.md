@@ -10,5 +10,9 @@ Code was based off the following repo: https://github.com/PolyMarsDev/Terri-Frie
 ![screen1](https://github.com/JoseOcasio/vita-sokoban/blob/master/resources/screenshots/screenshot1.jpg)
 ![screen2](https://github.com/JoseOcasio/vita-sokoban/blob/master/resources/screenshots/screenshot2.jpg)
 
+## Compilation
+To compile the code, the [vitasdk](https://vitasdk.org/) is needed.
+Simply navigate to the root and run `cmake . && make` to create the .VPK
+
 ## Assets
 All assets can be obtained [here](https://opengameart.org/content/sokoban-pack)
