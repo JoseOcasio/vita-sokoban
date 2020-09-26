@@ -1,4 +1,4 @@
-# VITA - SOKOBAN
+# PSVITA - SOKOBAN
 
 A very simple sample implementation of the sokoban game.
 
